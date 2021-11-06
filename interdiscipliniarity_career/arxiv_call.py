@@ -6,6 +6,7 @@ import datetime
 from collections import Counter
 import networkx as nx
 import os
+#from inference import predict
 
 
 category_list = ['q-bio.PE', 'math.DS', 'math-ph', 'cond-mat.soft', 'cond-mat.mtrl-sci',
